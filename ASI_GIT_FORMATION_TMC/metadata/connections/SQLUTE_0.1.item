@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_heHMwOTGEe-42K1dbppblg" name="SQLUTE" id="_a8R3cOTGEe-42K1dbppblg" label="SQLUTE" dataPackage="_hgvqAOTGEe-42K1dbppblg" ContextMode="true" ContextId="_hE7QsOTGEe-42K1dbppblg" contextName="Default" DatabaseType="SQLite" DriverClass="org.sqlite.JDBC" URL="jdbc:sqlite:/C:/SQLiteStudio/Formation_Production.db" Port="" Username="" Password="" ServerName="" DatasourceName="" FileFieldName="context.SQLUTE_File" SID="" SqlSynthax="" StringQuote="" NullChar="" DbmsId="sqlite_id" ProductId="SQLITE" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="" supportNLS="false">
+    <taggedValue xmi:id="_heK3IOTGEe-42K1dbppblg" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_hgOFkOTGEe-42K1dbppblg" tag="package filter" value=""/>
+    <taggedValue xmi:id="_hghAgOTGEe-42K1dbppblg" tag="Status" value=""/>
+    <taggedValue xmi:id="_hghAgeTGEe-42K1dbppblg" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_hghAguTGEe-42K1dbppblg" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_hghAg-TGEe-42K1dbppblg" tag="Description" value=""/>
+    <taggedValue xmi:id="_hghAhOTGEe-42K1dbppblg" tag="Author" value=""/>
+    <taggedValue xmi:id="_hghAheTGEe-42K1dbppblg" tag="otherParameter"/>
+    <taggedValue xmi:id="_hgjcwOTGEe-42K1dbppblg" tag="DB ProductName" value="SQLite"/>
+    <taggedValue xmi:id="_hgjcweTGEe-42K1dbppblg" tag="DB ProductVersion" value="3.44.1"/>
+    <taggedValue xmi:id="_hgjcwuTGEe-42K1dbppblg" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_heK3IeTGEe-42K1dbppblg" key="CONN_PARA_KEY_USERNAME" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_hgvqAOTGEe-42K1dbppblg" name=" " dataManager="_heHMwOTGEe-42K1dbppblg"/>
+</xmi:XMI>

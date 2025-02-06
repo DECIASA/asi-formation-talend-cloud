@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_SxDOcNltEe-YZsXANDnAsQ" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_SxDOcdltEe-YZsXANDnAsQ" comment="" name="chemin" prompt="chemin?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value="C:/Users/asaid/Desktop/Formation Talend Cloud Administrator/Kit de Formation/AdminCloud/TMC_API/"/>
+</talendfile:ContextType>

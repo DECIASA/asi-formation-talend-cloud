@@ -1,0 +1,18 @@
+{
+  "itemId" : "_RC-Y8KZhEeqzi732GM4_AQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_SwsCENltEe-YZsXANDnAsQ",
+    "parameterList" : [ {
+      "id" : "_SxDOcdltEe-YZsXANDnAsQ",
+      "name" : "chemin"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_hE7QsOTGEe-42K1dbppblg",
+    "parameterList" : [ {
+      "id" : "_9JXqgOTUEe-03vVMjy-agA",
+      "name" : "SQLUTE_File"
+    } ]
+  } ]
+}

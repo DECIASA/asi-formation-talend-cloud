@@ -275,25 +275,25 @@
         "show" : true,
         "field" : "RADIO",
         "name" : "FROM_FILE_FLAG_IMPLICIT_CONTEXT",
-        "value" : "true",
+        "value" : "false",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "RADIO",
         "name" : "FROM_DATABASE_FLAG_IMPLICIT_CONTEXT",
-        "value" : "false",
+        "value" : "true",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "FILE",
         "name" : "IMPLICIT_TCONTEXTLOAD_FILE",
-        "value" : "\"C:/context.txt\"",
+        "value" : "\"\"",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "TEXT",
         "name" : "FIELDSEPARATOR",
-        "value" : "\";\"",
+        "value" : "\"\"",
         "contextMode" : false
       }, {
         "show" : true,
@@ -317,19 +317,19 @@
         "show" : true,
         "field" : "CLOSED_LIST",
         "name" : "DB_TYPE_IMPLICIT_CONTEXT",
-        "value" : "tMSSqlInput",
+        "value" : "tSQLiteInput",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "CLOSED_LIST",
         "name" : "DB_VERSION_IMPLICIT_CONTEXT",
-        "value" : "MSSQL_PROP",
+        "value" : "",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "TEXT",
         "name" : "URL_IMPLICIT_CONTEXT",
-        "value" : "\"jdbc:sqlserver://192.168.1.95:1433;DatabaseName=test;\"",
+        "value" : "\"jdbc:sqlite:/C:/SQLiteStudio/Formation_Production.db\"",
         "contextMode" : false
       }, {
         "show" : true,
@@ -340,67 +340,67 @@
         "show" : true,
         "field" : "TEXT",
         "name" : "DRIVER_CLASS_IMPLICIT_CONTEXT",
-        "value" : "\"com.microsoft.sqlserver.jdbc.SQLServerDriver\"",
+        "value" : "\"org.sqlite.JDBC\"",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "TEXT",
         "name" : "HOST_IMPLICIT_CONTEXT",
-        "value" : "context.CONTEXTE1_Server",
+        "value" : "\"\"",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "TEXT",
         "name" : "PORT_IMPLICIT_CONTEXT",
-        "value" : "context.CONTEXTE1_Port",
+        "value" : "\"\"",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "TEXT",
         "name" : "DBNAME_IMPLICIT_CONTEXT",
-        "value" : "context.CONTEXTE1_Database",
+        "value" : "\"\"",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "TEXT",
         "name" : "LOCAL_SERVICE_NAME_IMPLICIT_CONTEXT",
-        "value" : "context.CONTEXTE1_Database",
+        "value" : "\"\"",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "TEXT",
         "name" : "PROPERTIES_IMPLICIT_CONTEXT",
-        "value" : "context.CONTEXTE1_AdditionalParams",
+        "value" : "\"\"",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "TEXT",
         "name" : "SCHEMA_DB_IMPLICIT_CONTEXT",
-        "value" : "context.CONTEXTE1_Schema",
+        "value" : "\"\"",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "TEXT",
         "name" : "USER_IMPLICIT_CONTEXT",
-        "value" : "context.CONTEXTE1_Login",
+        "value" : "\"\"",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "PASSWORD",
         "name" : "PASS_IMPLICIT_CONTEXT",
-        "value" : "enc:system.encryption.key.v1:uBZ8w7XjYf67VYVd4zymbkwXPgGlrsjIU861a60LV1ck5nVwoL3tf9ULEAQ+c9MwD7rTc+/m",
+        "value" : "enc:system.encryption.key.v1:kocApqMUGTpS2WdGIf5mmwakdi2Kmv3Ah5+yU8Tj",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "FILE",
         "name" : "DBFILE_IMPLICIT_CONTEXT",
-        "value" : "\"\"",
+        "value" : "context.SQLUTE_File",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "DBTABLE",
         "name" : "DBTABLE_IMPLICIT_CONTEXT",
-        "value" : "\"context_values\"",
+        "value" : "\"context_table\"",
         "contextMode" : false
       }, {
         "show" : true,
@@ -460,7 +460,7 @@
         "show" : true,
         "field" : "TECHNICAL",
         "name" : "PROPERTY_TYPE_IMPLICIT_CONTEXT:REPOSITORY_PROPERTY_TYPE",
-        "value" : "_RPq9UOTIEe-v1pPkx28VFQ",
+        "value" : "_a8R3cOTGEe-42K1dbppblg",
         "contextMode" : false
       } ]
     }
