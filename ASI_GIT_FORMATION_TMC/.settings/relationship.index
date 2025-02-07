@@ -26,21 +26,6 @@
   } ]
 }, {
   "baseItem" : {
-    "id" : "_CpkC4MkZEe-lc9TAwCEkTg",
-    "version" : "0.1",
-    "type" : "job"
-  },
-  "relatedItems" : [ {
-    "id" : "_hE7QsOTGEe-42K1dbppblg",
-    "version" : "Latest",
-    "type" : "context"
-  }, {
-    "id" : "_a8R3cOTGEe-42K1dbppblg",
-    "version" : "Latest",
-    "type" : "property"
-  } ]
-}, {
-  "baseItem" : {
     "id" : "_QKNNUGZ8EeWm5YvsrIoYzQ",
     "version" : "0.1",
     "type" : "job"
